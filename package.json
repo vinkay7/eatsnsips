@@ -2,7 +2,7 @@
   "name": "eatsnsips-website",
   "version": "1.0.0",
   "private": true,
-  "description": "Eats N Sips Africa restaurant website with menu and order contact form.",
+  "description": "Eats N Sips Africa restaurant website with menu, contact form, and order system.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
